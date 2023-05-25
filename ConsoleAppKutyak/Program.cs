@@ -22,6 +22,7 @@ while (!srKutyak.EndOfStream)
 }
 
 
+
 while (!srNevek.EndOfStream)
 {
     kutyanevekCount++;
